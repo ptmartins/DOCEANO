@@ -1,5 +1,5 @@
 import React from 'react';
-import './app.css';
+import './App.css';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { Home, Cetaceans, Pinipedes } from './pages';
 
