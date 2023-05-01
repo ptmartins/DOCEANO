@@ -1,0 +1,29 @@
+.section--home {
+  background: url("../../assets/home_bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  position: relative;
+}
+
+.hero {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
+.hero__title {
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 1.7rem;
+  font-weight: 200;
+  text-shadow: 0 0px 15px rgba(250, 250, 250, 0.7);
+  line-height: 3rem;
+  margin: -3rem auto 0;
+  text-align: center;
+}

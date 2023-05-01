@@ -1,0 +1,285 @@
+{
+    "cetaceans": {
+        "mysticetes": [
+            {
+                "id": 1,
+                "common_name": "Baleia comum",
+                "scientific_name": "Balaenoptera physalus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 2,
+                "common_name": "Baleia de Bryde",
+                "scientific_name": "Balaenoptera edeni",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 3,
+                "common_name": "Baleia basca",
+                "scientific_name": "Eubalaena glacialis",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 4,
+                "common_name": "Baleia azul",
+                "scientific_name": "Balaenoptera musculus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 5,
+                "common_name": "Baleia sardinheira",
+                "scientific_name": "Balaenoptera borealis",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 6,
+                "common_name": "Baleia de bossa",
+                "scientific_name": "Megaptera novaeangliae",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            },
+            {
+                "id": 7,
+                "common_name": "Baleia ana",
+                "scientific_name": "Balaenoptera acutorostrata",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Mysticete"]
+            }
+        ],
+        "odontocetes": [
+            {
+                "id": 8,
+                "common_name": "Golfinho comum",
+                "scientific_name": "Delphinus delphis",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 9,
+                "common_name": "Golfinho ricado",
+                "scientific_name": "Stenella coeruleoalba",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 10,
+                "common_name": "Golfinho pintado",
+                "scientific_name": "Stenella frontalis",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 11,
+                "common_name": "Golfinho roaz",
+                "scientific_name": "Tursiops truncatus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 12,
+                "common_name": "Orca",
+                "scientific_name": "Orcinus orca",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 13,
+                "common_name": "Falsa orca",
+                "scientific_name": "Pseudorca crassidens",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 14,
+                "common_name": "Cachalote",
+                "scientific_name": "Physeter macrocephalus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 15,
+                "common_name": "Cachalote pigmeu",
+                "scientific_name": "Kogia breviceps",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 16,
+                "common_name": "Zifio",
+                "scientific_name": "Ziphius cavirostris",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 17,
+                "common_name": "Botinhoso",
+                "scientific_name": "Hyperoodon ampullatus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 18,
+                "common_name": "Baleia de bico",
+                "scientific_name": "Mesoplodon bidens",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 19,
+                "common_name": "Baleia de bico de Gervais",
+                "scientific_name": "Mesoplodon europaeus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 20,
+                "common_name": "Baleia piloto",
+                "scientific_name": "Globicephala melas",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 21,
+                "common_name": "Baleia piloto tropical",
+                "scientific_name": "Globicephala macrorhyncus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 22,
+                "common_name": "Grampo",
+                "scientific_name": "Grampus griseus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 23,
+                "common_name": "Boto",
+                "scientific_name": "Phocoena phocoena",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            },
+            {
+                "id": 24,
+                "common_name": "Caldeirao",
+                "scientific_name": "Steno bredanensis",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Odontocete"]
+            }
+        ],
+        "pinnipeds": [
+            {
+                "id": 25,
+                "common_name": "Foca monge",
+                "scientific_name": "Monachus monachus",
+                "length": "",
+                "weight": "",
+                "population": "",
+                "diet": "",
+                "conservation_status": "",
+                "filter": ["Pinipede"]
+            }
+        ]
+    }
+}

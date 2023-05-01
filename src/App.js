@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './app.css';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import { Home, Cetaceans, Pinipedes } from './pages';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+
+    const location = useLocation();
+
+    if (location.pathname === '/') {
+        if (!document.body.classList.contains('is-home')) {
+            document.body.classList.add('is-home');
+        }
+    }
+    else {
+        if (document.body.classList.contains('is-home')) {
+            document.body.classList.remove('is-home');
+        }
+    }
+
+    return (
+        <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/cetaceans" element={<Cetaceans />} />
+            <Route path="/pinipedes" element={<Pinipedes />} />
+        </Routes>
+    )
 }
 
-export default App;
+export default App; 
